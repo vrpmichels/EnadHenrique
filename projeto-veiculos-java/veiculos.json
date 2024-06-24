@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "carro",
+    "marca": "Toyota",
+    "valor": 50000,
+    "ano": 2018
+  },
+  {
+    "tipo": "moto",
+    "marca": "Honda",
+    "valor": 15000,
+    "ano": 2020
+  },
+  {
+    "tipo": "carro",
+    "marca": "Ford",
+    "valor": 30000,
+    "ano": 2019
+  },
+  {
+    "tipo": "carro",
+    "marca": "Toyota",
+    "valor": 60000,
+    "ano": 2021
+  },
+  {
+    "tipo": "moto",
+    "marca": "Yamaha",
+    "valor": 20000,
+    "ano": 2017
+  }
+]
